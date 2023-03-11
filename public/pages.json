@@ -1,0 +1,14 @@
+[{
+    "link": {"text": "Home", "url": "index.html"},
+    "pageTitle": "Pick A Card"
+},
+{
+    "link": {"text": "About", "url": "about.html"},
+    "pageTitle": "About Page",
+    "content": "This is the about content"
+},
+{
+    "link": {"text": "How To", "url": "howTo.html"},
+    "pageTitle": "How To Page",
+    "content": "This website is a Tarot card emulator."
+}]
